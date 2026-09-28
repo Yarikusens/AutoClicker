@@ -1,4 +1,6 @@
 # AutoClicker
 This project is a good tool for gamers and not only them. If you are bored with repeatitive pressing left mouse button, it is your solution!
+
 I have made this in late 2024, so I used AI just know more about non-imported-by-default libraries in Windows Forms and C#. Still, all the logic and UI were made by me personally.
+
 We learned about Windows Forms in high school, and most of our apps were just some tool to calculate circle area, hypotenuse and things like that. But I wanted to create something really useful and came up with the idea of auto-clicker. As a gamer, I have experienced occasions when I had to press LMB many times fast, therefore auto-clicker became a nice tool for me and my friends.
